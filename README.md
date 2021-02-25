@@ -1,5 +1,5 @@
 # Hi there 👋 my name is Dallen, Pyrah.
-## I'm a 20 year old living in Boise, Idaho learning software development at Boise Codeworks. 
+I'm a 20 year old living in Boise, Idaho learning software development at Boise Codeworks. 
 
 <!--
 **dallenpyrah/dallenpyrah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
