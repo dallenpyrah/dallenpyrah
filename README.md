@@ -1,6 +1,16 @@
 # Hi there 👋 my name is Dallen, Pyrah.
 I'm a 20 year old living in Boise, Idaho learning fullstack software development at Boise Codeworks. 
 
+Skill's learned so far...
+- HTML5
+- CSS
+- Bootstrap
+- Javascript E6
+- MVC Design Pattern
+
+Skill's I still need to learn...
+- Everything! I am a learner first and foremost.
+
 
 <!--
 **dallenpyrah/dallenpyrah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
