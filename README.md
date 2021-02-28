@@ -6,22 +6,22 @@ I've always had a passion for technology and want to help technology advance to 
 - 	:man_technologist: Currently Learning: Javascript, CSS/Bootstrap, HTML, Web API's  
 - 	:books: Going to learn: Vue.js, C#, .Net Core, MySQL, Node.js, Mongo.db 
 
-# How to reach out to me...
+### How to reach out to me...
 - 	:mailbox: dallenpyrah@gmail.com
 - 	:telephone_receiver: (208)-392-8732
 
-# About me...
+### About me...
 - :studio_microphone: I make music in my freetime utilizing FL Studio to make beats anywhere I have my laptop.
 - :tshirt: I own a clothing company called Beriez and design clothing when I'm not coding.
 - :basketball: I love all sports but I love playing basketball the most. 
 - :ocean: Enjoy swimming and being in the water no matter where it is, someone teach me how to surf! 
 
-# Words I live by...
+### Words I live by...
 - “THE ONLY WAY TO GET RID OF THE FEAR OF DOING SOMETHING IS TO GO OUT AND DO IT.” - Susan Jeffers
 - "The ultimate measure of a man is not where he stands in moments of comfort and convenience, but where he stands at times of challenge and controversy." - Martin Luther King
 - “If my mind can conceive it, and my heart can believe it—then I can achieve it." - Muhammad Ali
 
-# My Stats...
+### My Stats...
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dallenpyrah)](https://github.com/dallenpyrah/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dallenpyrah)](https://github.com/dallenpyrah/github-readme-stats)
