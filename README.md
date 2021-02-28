@@ -2,8 +2,7 @@
 
 I've always had a passion for technology and want to help technology advance to improve aspects in everyones lives. I am a very persistent and driven fullstack developer who's main love is frontend work. I think about ways that will improve the future which results in my desire for learning how things work and finding ways to improve upon it. After trying a variety of different avenues out I decided to try software development and it has been the perfect fit, it allows me to be creative while still doing something I love.
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dallenpyrah)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dallenpyrah)](https://github.com/dallenpyrah/github-readme-stats)
 
 - 🌱 I’m currently learning fullstack web development at Codeworks in Boise, Idaho. 
 - 	:man_technologist: Currently Learning: Javascript, CSS/Bootstrap, HTML, Web API's
