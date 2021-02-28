@@ -1,7 +1,9 @@
 # Hi there 👋 my name is Dallen, Pyrah.
 
-I've always had a passion for technology and want to help technology advance to improve aspects in everyones lives. I am a very persistent and driven fullstack developer who's main love is frontend work. I think about ways that will improve the future which results in my desire for learning how things work and finding ways to improve upon it. After trying a variety of different avenues out I decided to try software development and it has been the perfect fit, it allows me to be creative while still doing something I love. 
+I've always had a passion for technology and want to help technology advance to improve aspects in everyones lives. I am a very persistent and driven fullstack developer who's main love is frontend work. I think about ways that will improve the future which results in my desire for learning how things work and finding ways to improve upon it. After trying a variety of different avenues out I decided to try software development and it has been the perfect fit, it allows me to be creative while still doing something I love.
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dallenpyrah)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🌱 I’m currently learning fullstack web development at Codeworks in Boise, Idaho. 
 - 	:man_technologist: Currently Learning: Javascript, CSS/Bootstrap, HTML, Web API's
@@ -21,6 +23,8 @@ I've always had a passion for technology and want to help technology advance to 
 - “THE ONLY WAY TO GET RID OF THE FEAR OF DOING SOMETHING IS TO GO OUT AND DO IT.” - Susan Jeffers
 - "The ultimate measure of a man is not where he stands in moments of comfort and convenience, but where he stands at times of challenge and controversy." - Martin Luther King
 - “If my mind can conceive it, and my heart can believe it—then I can achieve it." - Muhammad Ali
+
+
 
 <!--
 **dallenpyrah/dallenpyrah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
