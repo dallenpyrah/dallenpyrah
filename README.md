@@ -23,7 +23,7 @@ I've always had a infatuation for technology and have a desire to aid with the a
 
 ### My Stats...
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dallenpyrah&hide=css%0A&hide=html%0A%0A)](https://github.com/dallenpyrah/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dallenpyrah&hide=css%0A)](https://github.com/dallenpyrah/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dallenpyrah)](https://github.com/dallenpyrah/github-readme-stats)
 
 
