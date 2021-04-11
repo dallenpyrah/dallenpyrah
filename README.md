@@ -3,8 +3,8 @@
 I've always had a infatuation for technology and have a desire to aid with the advancement of technology with hopes it will change peoples lives. I am a very persistent and driven fullstack developer who's main love is frontend work. I am constantly imagining ways that will improve the future which results in my desire for learning how things work and finding ways to improve upon it. After trying a variety of different avenues out I decided to try software development and it has been the perfect fit, it allows me to be creative while still doing something I love.
 
 - 🌱 I’m currently learning fullstack web development at Codeworks in Boise, Idaho. 
-- 	:man_technologist: Launguages: Javascript, CSS/Bootstrap, HTML, Web API's, Vue.js, Node.js, Mongo.db 
-- 	:books: Going to learn:  C#, .Net Core, MySQL
+- 	:man_technologist: Tech Stack: C#, .NET Core, MySQL, Vue.js, Node.js, Javascript, CSS/Bootstrap, HTML, Web API's, Mongo.db
+- 	:books: Interested in learning: React, Tensorflow, Swift, Tailwind.css, and many others. 
 ### How to reach out to me...
 - 	:mailbox: dallenpyrah@gmail.com
 - 	:telephone_receiver: (208)-392-8732
