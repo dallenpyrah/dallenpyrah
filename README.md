@@ -20,6 +20,8 @@ I've always had a infatuation for technology and have a desire to aid with the a
 - "The ultimate measure of a man is not where he stands in moments of comfort and convenience, but where he stands at times of challenge and controversy." - Martin Luther King
 - “If my mind can conceive it, and my heart can believe it—then I can achieve it." - Muhammad Ali
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dallenpyrah&hide=css,html)](https://github.com/dallenpyrah/github-readme-stats)
+
 
 
 
