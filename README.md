@@ -1,6 +1,6 @@
 # Hi there 👋 my name is Dallen, Pyrah. 
 
-I have over a year of experience working in the tech world. Currently, I work as a Software Engineer at In Time Tec, where I am contracted out to Truckstop. I am working closely with a cross-functional team of six, developing and maintaining their payment products that are helping people get paid faster and securely! I'm deeply passionate about creating loved and trusted systems that help people eliminate or ease problems in their lives. 
+I have over a year of experience working in the tech industry. Currently, I work as a Software Engineer at In Time Tec, where I am contracted out to Truckstop. I am working closely with a cross-functional team of six, developing and maintaining their payment products that are helping people get paid faster and securely! I'm deeply passionate about creating loved and trusted systems that help people eliminate or ease problems in their lives. 
 
 Previously, I went to school at CodeWorks with a focus on Full-Stack Software Development. I learned how to write clean, secure, and efficient applications that also improved my knowledge of many different languages. We wrote applications using a variety of different frameworks and languages from starting out with a loosely typed language like Javascript to writing applications using the strongly typed language of C# in combination with Vue and Node.js. 
 
