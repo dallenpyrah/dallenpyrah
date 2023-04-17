@@ -17,6 +17,7 @@ Tools: Node.js, React, Angular, .NET Core, Git, Docker, Kubernetes, AWS, Prisma,
 
 - LinkedIn: **[linkedin.com/in/dallenpyrah](https://www.linkedin.com/in/dallenpyrah)**
 - Email: **[dallenpyrah@gmail.com](mailto:dallenpyrah@gmail.com)**
+- Video Meetup: **[https://cal.com/dallenpyrah](https://cal.com/dallenpyrah)
 
 ## **📊 GitHub Stats**
 
